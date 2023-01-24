@@ -1,0 +1,2 @@
+Rikiavimo nustatymas. Jei norima rikiuoti pagal simbolių dažnumą, reikšmė lygi 1, jei pagal leksikografinę tvarką - 0.
+Rikiavimas: 1
